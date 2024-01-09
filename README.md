@@ -3,7 +3,7 @@
 <p align="center"> <a href='mailto:sololucia17@gmail.com'></a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
 <a href="https://www.linkedin.com/in/luc%C3%ADa-mart%C3%ADnez-cer%C3%B3n-7326b2185/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
 
-<p> 🇪🇸 Junior Fullstack web developer  🔭 en búsqueda de trabajo mientras trabajo en 💻 proyectos propios como Freelance! Más abajo puedes encontrar los proyectos que he realizado y los lenguajes en los que programo</p>
+<p> 🇪🇸 Desarrolladora web Fullstack Junior  🔭 en búsqueda de trabajo mientras trabajo en 💻 proyectos propios como Freelance! Más abajo puedes encontrar los proyectos que he realizado y los lenguajes en los que programo</p>
 --
 <p> 🇬🇧 Junior Fullstack web developer currently 🔭 looking for a job while I work Freelance on some 💻 projects on my own! You can check out the proyects I've done and the languages I work with below</p>
 
