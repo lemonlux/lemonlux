@@ -1,6 +1,7 @@
 <h1 align="center">Hi! I'm Lucía</h1>
 <h2 align="center">👩🏻‍💻Fullstack Web Developer👩🏻‍💻</h1>
-<p align="center"> <a href='mailto:sololucia17@gmail.com'></a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+<p align="center"> 
+  <a href='mailto:lucia.mceron@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 <a href="https://www.linkedin.com/in/luc%C3%ADa-mart%C3%ADnez-cer%C3%B3n-7326b2185/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
 
 <p> 🇪🇸 Desarrolladora web Fullstack Junior  🔭 en búsqueda de trabajo mientras trabajo en 💻 proyectos propios como Freelance! Más abajo puedes encontrar los proyectos que he realizado y los lenguajes en los que programo</p>
