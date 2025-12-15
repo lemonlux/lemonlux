@@ -4,12 +4,6 @@
   <a href='mailto:lucia.mceron@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 <a href="https://www.linkedin.com/in/luc%C3%ADa-mart%C3%ADnez-cer%C3%B3n-7326b2185/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
 
-<p> Some of the projects I've done (click to see the code): </p>
-
-<div display="flex" align="center" >
-<a href="https://github.com/neolandsep2023"><img alt="connect-a-mate website" src="https://res.cloudinary.com/daxddugwt/image/upload/v1707814382/Captura_de_pantalla_2024-02-13_a_las_9.45.03_n52eyl.png" width="300px"/></a>
-<a href="https://github.com/eolimacion"><img alt="connect-a-mate website" src="https://res.cloudinary.com/daxddugwt/image/upload/v1707814385/Captura_de_pantalla_2024-02-13_a_las_9.45.29_s7gsgh.png" width="300px"/></a>
-</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonlux&layout=compact&theme=dark&hide_border=true)
 
